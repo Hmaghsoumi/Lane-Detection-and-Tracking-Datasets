@@ -1,4 +1,4 @@
-# Lane Detection and Tracking Datasets: Comparative Study and Evaluation by a Novel "Dataset Scenario Detector" Application
+# Lane Detection and Tracking Datasets: A Comprehensive Study and Evaluation Using a Novel "Dataset Scenario Detector" Application
 
 This paper is submitted to the "IEEE Transactions on Intelligent Transportation Systems". 
 
