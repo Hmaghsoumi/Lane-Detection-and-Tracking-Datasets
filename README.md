@@ -2,4 +2,4 @@
 
 This paper is published in the *IEEE Transactions on Instrumentation and Measurement*. 
 
-For access to the source code of the **Dataset Scenario Detector** application, please send your request to email: [h.maghsoumi@ut.ac.ir](mailto:h.maghsoumi@ut.ac.ir).
+For access to the source code of the **Dataset Scenario Detector** application, please send your request to: [h.maghsoumi@ut.ac.ir](mailto:h.maghsoumi@ut.ac.ir).
